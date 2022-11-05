@@ -1,0 +1,148 @@
+header{
+    display: inline-flex;
+width: 1440px;
+height: 80px;
+}
+.img_logo{
+    margin-top: 24px;
+    margin-left: 120px;
+    width: 33px;
+    height: 30px;
+}
+.name_logo{
+    margin-top: 27px;
+    margin-left: 13px;
+    width: 154px;
+    height: 29px;
+}
+ul{
+    margin-left: 198px;
+    margin-top: 9px;
+    display: flex;
+flex-direction: row;
+align-items: center;
+gap: 20px;
+}
+.product-color{
+    margin-top: 9px;
+    text-decoration: none;
+width: 65px;
+height: 28px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 28px;
+color: #FF9900;
+}
+.navi-name{
+    margin-top: 9px;
+    text-decoration: none;
+height: 28px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 28px;
+color: #2F281E;
+}
+.sign-in{
+    margin-top: 17px;
+    margin-left: 198px;
+    display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+position: absolute;
+width: 110px;
+height: 46px;
+left: 948px;
+top: 0px;
+border: 1px solid #BCD0E5;
+border-radius: 4px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 20px;
+color: #2F281E;
+}
+.sign-up{
+    margin-top: 17px;
+    margin-left: 198px;
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+position: absolute;
+width: 110px;
+height: 46px;
+left: 1090px;
+top: 0px;
+border: 1px solid #FF9900;
+background: #FF9900;
+border-radius: 4px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 20px;
+color: #FFFFFF;
+
+}
+.hero{
+    display: flex;
+    margin-left: 120px;
+    margin-top: 70px;
+}
+.h-hero{
+    padding-top: 97px;
+ width: 500px;
+height: 110px;
+left: 0px;
+top: 97px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 44px;
+line-height: 54px;
+color: #2F281E;
+}
+.par-hero{
+    padding-top: 30px;
+width: 500px;
+height: 91px;
+left: 0px;
+top: 237px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 28px;
+color: #544837;
+}
+.button-hero{
+    margin-top: 20px;
+    flex-direction: row;
+justify-content: center;
+align-items: center;
+width: 180px;
+height: 50px;
+background: #FF9900;
+border: 1px solid #FF9900;
+border-radius: 4px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 24px;
+text-align: center;
+color: #FFFFFF;
+}
+.people{
+    margin-left: 116px;
+    margin-top: 70px;
+width: 644px;
+height: 495px;
+left: 556px;
+}
