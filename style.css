@@ -149,6 +149,7 @@ left: 556px;
 .bacg{
     background: url(./img/bg.png) no-repeat center;
     background-size: 100%;   
+    height: 520px;
 }
 .d-features{
 display: flex;
@@ -202,7 +203,7 @@ line-height: 26px;
 color: #544837;
 }
 .but-features{
-    margin-left: 635px;
+    margin-left: 685px;
     margin-top: 120px;
     display: flex;
 justify-content: center;
@@ -219,4 +220,70 @@ font-size: 16px;
 line-height: 24px;
 text-align: center;
 color: #FFFFFF;
+}
+.benefits{
+    display: flex;  
+    margin-left: 120px;
+    margin-top: 100px; 
+    width: 1200px;
+height: 573px;
+left: 120px;
+top: 1356px;
+}
+
+h2{
+display: contents;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+color: #2F281E;
+}
+h5{
+    padding-top: 40px;
+    display: contents;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+color: #2F281E;
+}
+
+.img-benefits{
+    width: 562px;
+height: 573px;
+left: 638px;
+margin-left: 113px;
+}
+.text{
+    width: 525px;
+height: 532px;
+top: 20.5px;
+}
+.product-managers{
+    display: flex; 
+    width: 1200px;
+height: 520px;
+ 
+}
+.img-product{
+    margin-left: 120px;
+    margin-top: 100px;
+    width: 570px;
+height: 520px;
+}
+.div-product{
+    padding-left: 125px;
+    padding-top: 150px;
+    width: 505px;
+height: 424px;
+}
+.icon-prod{
+    width: 35px;
+height: 35px;
+padding-right: 30px;
+}
+.product-list{
+    
+    gap: 30px;
 }
