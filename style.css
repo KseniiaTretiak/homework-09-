@@ -15,7 +15,7 @@ height: 80px;
     width: 154px;
     height: 29px;
 }
-ul{
+.logoul{
     margin-left: 198px;
     margin-top: 9px;
     display: flex;
@@ -155,7 +155,7 @@ left: 556px;
 display: flex;
 }
 .h-features{
-    margin-left: 455px;
+    margin-left: 535px;
     margin-top: 99px;
     width: 539px;
 height: 88px;
@@ -261,8 +261,7 @@ height: 532px;
 top: 20.5px;
 }
 .product-managers{
-    display: flex; 
-    width: 1200px;
+    display: inline-flex; 
 height: 520px;
  
 }
@@ -279,11 +278,111 @@ height: 520px;
 height: 424px;
 }
 .icon-prod{
+    transform: translateY(9px);
     width: 35px;
 height: 35px;
-padding-right: 30px;
+padding-right: 15px;
 }
-.product-list{
-    
-    gap: 30px;
+.marketers{
+    margin-left: 120px;
+    margin-top: 100px; 
+    display: inline-flex;
+    width: 1200px;
+height: 610px;
+top: 2649px;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 0px;
+gap: 82px;
+}
+.line{
+    margin-top: 100px;
+    width: 1440px;
+height: 1px;
+left: 0px;
+top: 3359px;
+background: rgba(188, 208, 229, 0.496913);
+}
+footer{
+    display: inline-flex;
+}
+.quick{
+    margin-top: 30px;
+    margin-left: 130px;
+}
+.qui-sp{
+    font-family: 'Gotham';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+color: #2F281E;
+}
+.fooli{
+list-style-type: none;
+transform: translateX(-40px);
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 26px;
+color: #544837;
+}
+.stuff{
+    margin-top: 30px;
+    margin-left: 130px;
+}
+.sp-stuff{
+    font-family: 'Gotham';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+color: #2F281E;
+}
+.inp-foot{
+    display: grid;
+}
+.lab-foot{
+    margin-top: 30px;
+    margin-left: 130px;
+    font-family: 'Gotham';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+color: #2F281E;
+}
+.foot-tel{
+    margin-top: 25px;
+    margin-left: 130px;
+    flex-direction: row;
+align-items: center;
+padding: 0px 10px;
+gap: 10px;
+width: 340px;
+height: 50px;
+border: 1px solid #BCD0E5;
+border-radius: 4px;
+}
+
+.but-foot{
+    margin-top: 25px;
+    margin-left: 130px;
+    flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 13px 40px;
+width: 180px;
+height: 50px;
+border: 1px solid #FF9900;
+background: #FF9900;
+border-radius: 4px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+line-height: 24px;
+text-align: center;
+color: #FFFFFF;
 }
